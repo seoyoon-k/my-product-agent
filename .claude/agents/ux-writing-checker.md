@@ -25,7 +25,7 @@ Figma 파일에서 텍스트 노드를 추출하고, `.claude/rules/ux-writing.m
    - 텍스트 내용
 3. `.claude/rules/ux-writing.md`를 읽어 각 텍스트에 해당 규칙을 적용한다.
 4. 규칙 위반이 감지된 항목만 리포트에 포함한다. 정상 항목은 제외한다.
-5. 리포트를 `./review-reports/ux-writing-YYYYMMDD-HHMM.md` 형식으로 저장한다.
+5. 리포트를 `./review-reports/YYYYMMDD_ux-writing review.md` 형식으로 저장한다.
 
 ## 컴포넌트 타입 판별 기준
 
